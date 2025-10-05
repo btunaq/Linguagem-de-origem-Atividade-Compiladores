@@ -24,4 +24,3 @@ echo "Chamando função com variável estática:<br>";
 minhaFuncaoEstatica(); // Saída: Variável Estática: 0
 minhaFuncaoEstatica(); // Saída: Variável Estática: 1
 minhaFuncaoEstatica(); // Saída: Variável Estática: 2
-?
